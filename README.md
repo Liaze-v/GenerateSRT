@@ -3,7 +3,7 @@
   <h3 align="center">GenerateSRT</h3>
 
   <p align="center">
-    generate subtitle of a bunch of videos
+    generate translated subtitle of a bunch of videos
     <br/>
     <br/>
   </p>
